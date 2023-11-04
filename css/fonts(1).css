@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: 'Fabiolo';
+    src: url('fabiolo-semibold.eot');
+    src: url('fabiolo-semibold.eot?#iefix') format('embedded-opentype'),
+         url('fabiolo-semibold.woff2') format('woff2'),
+         url('fabiolo-semibold.woff') format('woff'),
+         url('fabiolo-semibold.ttf') format('truetype'),
+         url('fabiolo-semibold.svg#fabiolo-smallcapsemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

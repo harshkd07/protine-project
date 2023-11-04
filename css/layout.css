@@ -1,0 +1,33 @@
+html {
+	width:100%;
+}
+body {
+	height:100%;
+	margin:0px;
+	padding:0px;
+}
+img {
+	border:none;
+	padding:0px;
+	margin:0px;	
+}
+
+#mainPage {	}
+#cmsDiv {
+	width:100%;
+	margin:0 auto;
+}
+#cmsHeader {}
+#cmsCenter {
+	width:100%;
+}
+#cmsLeft {}
+#cmsMain {
+	width:100%;
+}
+#cmsRight {}
+#cmsFooter {}
+
+.div_float_left { float:left; }
+.div_float_right { float:right; }
+.div_clear_both { clear:both; }
